@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(242, 215, 181);
+    margin: 0;
+    padding: 20px 0;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+}        
+.band {
+   padding: 10px 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.green {
+    background-color: #83b994;
+}
+.brown {
+    background-color: #cb8843;
+}

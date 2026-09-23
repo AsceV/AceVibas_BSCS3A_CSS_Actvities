@@ -1,0 +1,42 @@
+* {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+ol {
+    display: inline-block;
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.element-text {
+    color: red;
+}
+
+.class-text {
+    color: black;
+}
+
+#id-text {
+    color: green;
+}
+
+li[data-type="attribute"] {
+    color: blue;
+}
